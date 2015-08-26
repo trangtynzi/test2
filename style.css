@@ -1,0 +1,7 @@
+*{ margin: 0; padding: 0;}
+#wrapper{ margin: auto; width: 960px; height: auto;}
+
+#top{ width: 960px; float: left; height: auto;}
+#left{ width: 240px; height: 1000px; background: #093; float: left;}
+#content { width: 720px; height: 1000px; background: #f00; float: left;}
+#bottom { width: 960px; height: 150px; float: left; text-align: center; background: #999;}
